@@ -4,6 +4,13 @@
 /uploads
 /node_modules
 yarn-error.log
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+*.backup
+.terraform.lock.hcl
 
 .idea
 
